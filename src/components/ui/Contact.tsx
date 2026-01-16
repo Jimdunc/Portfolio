@@ -48,7 +48,7 @@ const Contact = () => {
             </a>
             <div className="flex items-center gap-2 text-muted-foreground font-body">
               <MapPin className="w-5 h-5" />
-              Mombasa,Kenya
+              Kilifi,Kenya
             </div>
           </motion.div>
           

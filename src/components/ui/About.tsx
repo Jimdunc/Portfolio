@@ -25,7 +25,7 @@ const About = () => {
             </h2>
             <div className="space-y-4 text-muted-foreground font-body leading-relaxed">
               <p>
-                I am a passionate graphic designer with a strong eye for detail and a deep understanding of visual communication. I design graphics that are not only visually appealing but also aligned with brand goals and audience needs. My work spans branding, digital design, and print materials, and I enjoy turning ideas into clean, engaging visuals.
+                I am a graphic designer and software developer focused on crafting responsive websites and digital experiences that connect brands with their audiences. I design websites and graphics that are not only visually appealing but also aligned with brand goals and audience needs. My work spans branding, digital design, and print materials, and I enjoy turning ideas into clean, engaging visuals.
 
 I value consistency, clarity, and creativity in every project I work on. Whether designing for startups, businesses, or personal brands, my goal is always to create designs that leave a lasting impression.
               </p>
